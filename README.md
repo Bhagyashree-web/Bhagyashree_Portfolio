@@ -10,13 +10,17 @@ You can view the live version of the portfolio here:
 
 ## 📁 Folder Structure
 ├── index.html
+
 ├── style.css
+
 ├── assets/
 │ └── Bhagyashree_Gourkar_Resume1.pdf
+
 ├── images/
 │ └── profile.jpg
 ├── certificates/
 │ └── [All certification files]
+
 ├── internship/
 │ └── [All internship certificates and offer letters]
 
@@ -26,7 +30,6 @@ You can view the live version of the portfolio here:
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (optional)**
 - **Formspree** – for handling contact form submissions
 
 ---
@@ -67,5 +70,5 @@ Includes viewable certifications from:
 ## 📞 Contact
 
 - 📧 Email: bhagyashreegourkar06@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhagyashree-gourkar)
-- 🖥️ [GitHub](https://github.com/Bhagyashree-web)
+- 💼 [LinkedIn] (https://www.linkedin.com/in/bhagyashree-gourkar)
+- 🖥️ [GitHub] (https://github.com/Bhagyashree-web)
