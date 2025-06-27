@@ -10,14 +10,23 @@ You can view the live version of the portfolio here:
 
 ## 📁 Folder Structure
 ├── index.html
+
 ├── style.css
+
 ├── assets/
+
 │ └── Bhagyashree_Gourkar_Resume1.pdf
+
 ├── images/
+
 │ └── profile.jpg
+
 ├── certificates/
+
 │ └── [All certification files]
+
 ├── internship/
+
 │ └── [All internship certificates and offer letters]
 
 ---
